@@ -1,10 +1,11 @@
 package leetcode.array;
 
 /**
- * @program: leetcode
+ * @program: leetcode经典重要
  * @description: Find the contiguous subarray within an array (containing at least one number) which has the largest sum.
  * For example, given the array [-2,1,-3,4,-1,2,1,-5,4], the contiguous subarray [4,-1,2,1] has the largest sum = 6.
  * @author: Mr.Hugh
+ * https://www.cnblogs.com/jimmycheng/p/7204034.html
  * @create: 2018-01-13 18:32
  **/
 
