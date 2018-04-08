@@ -1,4 +1,4 @@
-package array;
+package leetcode.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,7 +27,7 @@ import java.util.Map;
 
 
 
-class Solution {
+class Solution26 {
     public int[] twoSum(int[] numbers, int target) {
        int[] result = new int[2];
 	    Map<Integer, Integer> map = new HashMap<Integer, Integer>();
@@ -49,7 +49,7 @@ public class TwoSum1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Solution s= new Solution();
+		Solution26 s= new Solution26();
 		int[] num= {2,7,11,15};
 		int[] res=s.twoSum(num, 9);
 		for(int i:res) {
